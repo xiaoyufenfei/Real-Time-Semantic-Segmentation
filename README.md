@@ -80,4 +80,5 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 5. [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
 6. [fast_portrait_segmentation](https://github.com/lizhengwei1992/fast_portrait_segmentation)
 7. [Light_CNN](https://github.com/EDG-Zola/Light_CNN)
+8. [read-paper-list](https://github.com/yyfyan/read-paper-list)
 
