@@ -82,4 +82,5 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 7. [Light_CNN](https://github.com/EDG-Zola/Light_CNN)
 8. [read-paper-list](https://github.com/yyfyan/read-paper-list)
 9. [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
+10. [Semantic-Segmentation-Paper-Record](https://github.com/lcybuzz/Personal-Semantic-Segmentation-Paper-Record)
 
