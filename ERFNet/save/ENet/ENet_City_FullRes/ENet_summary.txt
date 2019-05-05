@@ -1,0 +1,28 @@
+ARGUMENTS
+batch_size: 8
+cuda: store_false
+dataset: cityscapes
+dataset_dir: /home/ken/Documents/Dataset/
+epochs: 200
+height: 512
+ignore_unlabeled: True
+imshow_batch: False
+learning_rate: 0.0005
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ENet
+print_step: False
+reset-optimizer: False
+resume: True
+save_dir: /home/ken/Documents/PyTorch-ENet/save/ENet_City_FullRes
+train_decoder: False
+train_encoder: False
+weighing: enet
+weight_decay: 0.0002
+width: 1024
+workers: 6
+
+BEST VALIDATION
+Epoch: 190
+Mean IoU: 0.3393210589178384

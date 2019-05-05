@@ -1,0 +1,27 @@
+ARGUMENTS
+batch_size: 6
+cuda: True
+dataset: cityscapes
+dataset_dir: /data/wangyu/Datasets/
+epochs: 300
+height: 512
+ignore_unlabeled: True
+imshow_batch: False
+learning_rate: 0.0005
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ERFnet
+print_step: False
+reset-optimizer: False
+resume: False
+rmdistort: False
+save_dir: save/ERFnet
+weighing: enet
+weight_decay: 0.0001
+width: 1024
+workers: 10
+
+BEST VALIDATION
+Epoch: 290
+Mean IoU: 0.5797076210921004

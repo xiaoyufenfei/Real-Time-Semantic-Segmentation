@@ -1,0 +1,25 @@
+ARGUMENTS
+batch_size: 4
+dataset: cityscapes
+dataset_dir: ../../Datasets/Cityscapes/1024x512/
+device: cuda
+epochs: 300
+height: 512
+ignore_unlabeled: True
+imshow_batch: True
+learning_rate: 0.0005
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ENet
+print_step: False
+resume: False
+save_dir: save
+weighing: ENet
+weight_decay: 0.0002
+width: 1024
+workers: 4
+
+BEST VALIDATION
+Epoch: 220
+Mean IoU: 0.59403805134811

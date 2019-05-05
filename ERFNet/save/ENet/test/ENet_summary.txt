@@ -1,0 +1,27 @@
+ARGUMENTS
+batch_size: 10
+cuda: store_false
+dataset: cityscapes
+dataset_dir: /home/ken/Documents/Dataset/
+epochs: 300
+height: 360
+ignore_unlabeled: True
+imshow_batch: False
+learning_rate: 0.0005
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ENet
+print_step: False
+reset-optimizer: False
+resume: False
+rmdistort: False
+save_dir: save/ENet/test/
+weighing: enet
+weight_decay: 0.0002
+width: 640
+workers: 10
+
+BEST VALIDATION
+Epoch: 10
+Mean IoU: 0.20927321496696347
