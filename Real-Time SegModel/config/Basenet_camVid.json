@@ -1,0 +1,37 @@
+{
+  "name": "Basenet_camVid_batch_size_2_multi_scale_pre_train",
+  "gpu_num":2,
+  "visulize": true,
+  "resume":false,
+  "resumeLoc":null,
+  "num_epoch":600,
+  "lr":5e-4,
+  "lr_step":100,
+  "save_step":5,
+  "pre_train":false,
+  "pre_train_path":"",
+  "MODEL":{
+    "name":"Basenet"
+  },
+  "DATA":{
+    "name":"camVid",
+    "data_dir":"data_loader/camVid/",
+    "cached_data_file":"camVid.p",
+    "classes": 12,
+    "width":480,
+    "height":360,
+    "scale_in":1,
+    "val_data_dir":"/home/zhengxiawu/data/CamVid/val/",
+    "img_suffix":"png",
+    "ignore_label":[11],
+
+    "train_args":{
+      "scale":[[720,544],[600,456],[360,272],[480,360]],
+      "random_crop_size":[16,16,0,0],
+      "batch_size":2
+    },
+    "val_args":{
+      "scale":[480,360]
+    }
+  }
+}

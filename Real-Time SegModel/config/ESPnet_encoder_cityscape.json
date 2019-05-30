@@ -1,0 +1,34 @@
+{
+  "name": "Espnet_encoder_cityscape",
+  "gpu_num":2,
+  "visulize": true,
+  "resume":false,
+  "resumeLoc":null,
+  "num_epoch":600,
+  "lr":5e-4,
+  "lr_step":100,
+  "save_step":5,
+  "MODEL":{
+    "name":"ESpnet_2_8"
+  },
+  "DATA":{
+    "name":"cityscape",
+    "data_dir":"data_loader/cityscape/",
+    "cached_data_file":"city.p",
+    "classes": 20,
+    "width":1024,
+    "height":512,
+    "scale_in":8,
+    "val_data_dir":"/home/zhengxiawu/data/cityscapes/leftImg8bit/val",
+    "img_suffix":"png",
+
+    "train_args":{
+      "scale":[[1536,768],[1280,720],[768,384],[512, 256],[1024,512]],
+      "random_crop_size":[100,100,32,0,32],
+      "batch_size":8
+    },
+    "val_args":{
+      "scale":[1024,512]
+    }
+  }
+}

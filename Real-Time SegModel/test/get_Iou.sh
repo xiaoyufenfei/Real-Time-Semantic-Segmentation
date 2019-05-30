@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+CITYSCAPES_DATASET=/home/zhengxiawu/data/cityscapes/gtFine_trainvaltest CITYSCAPES_RESULTS=/home/zhengxiawu/work/real_time_seg/result/Espnet_cityscape CITYSCAPES_EXPORT_DIR=/home/zhengxiawu/work/real_time_seg/result/ csEvalPixelLevelSemanticLabeling
