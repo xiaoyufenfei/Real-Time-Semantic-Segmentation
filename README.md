@@ -84,4 +84,4 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 9. [awesome--computer--vision--models](https://github.com/nerox8664/awesome-computer-vision-models)
 10. [Semantic-Segmentation-Paper-Record](https://github.com/lcybuzz/Personal-Semantic-Segmentation-Paper-Record)
 11. [CV-News](https://github.com/xiaoketongxue/CV-News)
-
+12. [research-method](https://github.com/secdr/research-method)
