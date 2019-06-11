@@ -85,3 +85,5 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 10. [Semantic-Segmentation-Paper-Record](https://github.com/lcybuzz/Personal-Semantic-Segmentation-Paper-Record)
 11. [CV-News](https://github.com/xiaoketongxue/CV-News)
 12. [research-method](https://github.com/secdr/research-method)
+13. [segmentation-paper-reading-notes](https://github.com/zhixuanli/segmentation-paper-reading-notes) 
+
