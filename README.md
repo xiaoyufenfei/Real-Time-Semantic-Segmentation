@@ -1,5 +1,7 @@
 ## Real-time network  for mobile devices
 
+### [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) 
+
 ### Google
 
 Learning Transferable Architectures for Scalable Image Recognition [NASNet](https://arxiv.org/abs/1707.07012)
@@ -86,4 +88,10 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 11. [CV-News](https://github.com/xiaoketongxue/CV-News)
 12. [research-method](https://github.com/secdr/research-method)
 13. [segmentation-paper-reading-notes](https://github.com/zhixuanli/segmentation-paper-reading-notes) 
+14. [CV-Papers-Datasets](https://github.com/zhulf0804/CV-Papers-Datasets)
+15. [useful-computer-vision-phd-resources](https://github.com/hassony2/useful-computer-vision-phd-resources)
+16. [AI_Projects](https://github.com/StevenLei2017/AI_Projects)
+17. [awesome-embedded-ai](https://github.com/ysh329/awesome-embedded-ai)
+18. [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X)
+19. [CV_resources](https://github.com/Adhders/CV_resources)
 
