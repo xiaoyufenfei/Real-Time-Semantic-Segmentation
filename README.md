@@ -76,24 +76,52 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 ### Some useful links & repo
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+
 2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+
 3. [real-time-network](https://github.com/wpf535236337/real-time-network)
+
 4. [ConvNets](https://github.com/gopala-kr/convnets) 
+
 5. [awesome-computer-vision-models](https://github.com/nerox8664/awesome-computer-vision-models)
+
 6. [fast_portrait_segmentation](https://github.com/lizhengwei1992/fast_portrait_segmentation)
+
 7. [Light_CNN](https://github.com/EDG-Zola/Light_CNN)
+
 8. [read--paper--list](https://github.com/yyfyan/read-paper-list)
+
 9. [awesome--computer--vision--models](https://github.com/nerox8664/awesome-computer-vision-models)
+
 10. [Semantic-Segmentation-Paper-Record](https://github.com/lcybuzz/Personal-Semantic-Segmentation-Paper-Record)
+
 11. [Segmentation-Paper-Reading-Notes](https://github.com/zhixuanli/segmentation-paper-reading-notes)
+
 12. [CV-News](https://github.com/xiaoketongxue/CV-News)
+
 13. [research-method](https://github.com/secdr/research-method)
+
 14. [segmentation-paper-reading-notes](https://github.com/zhixuanli/segmentation-paper-reading-notes) 
+
 15. [CV-Papers-Datasets](https://github.com/zhulf0804/CV-Papers-Datasets)
+
 16. [useful-computer-vision-phd-resources](https://github.com/hassony2/useful-computer-vision-phd-resources)
+
 17. [AI_Projects](https://github.com/StevenLei2017/AI_Projects)
+
 18. [awesome-embedded-ai](https://github.com/ysh329/awesome-embedded-ai)
+
 19. [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X)
+
 20. [SemanticSegmentation_DL](https://github.com/tangzhenyu/SemanticSegmentation_DL)
+
 21. [CV_resources](https://github.com/Adhders/CV_resources)
+
 22. [无人驾驶资源收集](https://github.com/Sophia-11/Autonomous-driving)
+
+23. [无人驾驶相关论文速递](https://github.com/DeepTecher/AutonomousVehiclePaper)
+
+24. [AI papers](https://github.com/armandmcqueen/ai-papers)
+
+25. [Paper-Notes](https://github.com/Hsuxu/Paper-Notes)
+
